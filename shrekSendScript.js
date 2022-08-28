@@ -23,6 +23,9 @@ async function enviarScript(scriptText){
 }
 
 enviarScript(`
+
+Odeio vcs KKKKKK
+
 SHREK
 
 Written by
